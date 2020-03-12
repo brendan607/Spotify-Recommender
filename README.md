@@ -140,9 +140,9 @@ Let's take a look at some results we get from the recommender:
 <br/> 
 
 ### Key Takeaways: 
-- Our recommender is based on "audio features", which returns music with similar features musically.
+- Our recommender is based on "audio features", which returns tracks with similar features musically.
 - Often genres are defined by the specific sound design and timbres of its instrumentation. Our recommender was often returning songs that could be in a complete different genre, sounding completey different yet being very similar musically.
-- Since this recommender recommends songs based on audio features (genre was not a feature), it is a great away to discover music that is out of your usual comfort zone.\
+- Since this recommender recommends songs based on audio features (genre was not a feature), it is a great away to discover music that is out of your usual comfort zone.
 
 ___
 ## Limitations
