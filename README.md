@@ -155,6 +155,6 @@ ___
 
 - Creating this recommender into a usable app would be the next biggest step for accessability.
 - Researching ways to improve efficiency in our code. Currently running my recommender code takes a significant amount of memory, even after taking measures to make it easier on my computer already.
-- Understanding my data beter - contacting Spotify to understand how the 2,000 tracks queried per year are sorted by.
+- Understanding my data better - contacting Spotify to understand how the 2,000 tracks queried per year are sorted by.
 - Potentially scrape genre information for songs, to create a more traditional recommender of songs that sound more similar rather than just taking into account music features.
 - Collect user feedback on the recommender system performance. The best recommenders are a likely a mix of product and collaboration based, where both features of the product and reviews on recommender performance are taken into account for our recommender model.
