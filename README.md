@@ -118,7 +118,7 @@ That article dives deeper into the Linear Algebra that is behind SVD and PCA, if
 
 Let's take a look at some results we get from the recommender:
 
-<img src="./Assets/Recommender1.png" width="80%" height="60%"> 
+<img src="./Assets/Recommender1.png" width="100%" height="80%"> 
 
 **Observations:** 
 - "Closer" by the Chainsmokers is a very popular song that lies somewhere between the EDM and Pop genres. 
@@ -128,7 +128,7 @@ Let's take a look at some results we get from the recommender:
 - Our 3rd recommendation is Latin pop and the instrumentation is a lot more acoustic in comparison to our input.
 
 
-<img src="./Assets/Recommender2.png" width="80%" height="60%">
+<img src="./Assets/Recommender2.png" width="100%" height="80%">
 
 **Observations:** 
 - "Ocean Eyes" is Billie Eilish's debut single featuring wonderful pop vocals and instrumentation.
